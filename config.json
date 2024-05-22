@@ -1,0 +1,13 @@
+{
+    "ip": "10.100.102.12", 
+    "port": 12345,
+    "SUCCESS_MESSAGES": ["Good Job!", "Great!", "Fantastic work!", "Excellent effort!", "Bravo!", "Well done!", "Superb!", "Amazing job!", "Keep up the good work!", "Outstanding!", "Impressive!", "Terrific!"],
+    "low_diffrence": 5,
+    "high_diffrence": 10,
+    "max_sorting_time": 300,
+
+    "score_coefficient": 0.8,
+    "max_chat_players": 1,
+    "max_connections": 10,
+    "num_of_numbers_to_sort": 2
+}
